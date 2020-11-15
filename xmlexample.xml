@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding='utf-8' ?>
+<email>
+    <header>
+        <from>xxx.163.com</from>
+        <to>aaa.qq.com</to>
+        <subject>test email</subject>
+    </header>
+    <body>
+        <text content-type = "text/plain">
+            Hello World!
+        </text>
+        <img>
+            url
+        </img>
+        <mp3>
+            xx.mp3
+        </mp3>
+        <doc>
+            xx.doc
+        </doc>
+        <neighbor name="test123"/>
+        <neighbor name="test456"/>
+    </body>
+</email>
